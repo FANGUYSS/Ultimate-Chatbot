@@ -36,7 +36,7 @@ npm install
 
 ### 3. Fill in your `.env` file
 
-Create a `.env` file and add the following:
+Edit `.env` file and add the following:
 
 ```
 DISCORD_TOKEN=your_discord_bot_token
